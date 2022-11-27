@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\Euresys\Open eVision 2.17\Sample Programs\MsVcs samples\QrcReading\bin\x64\Debug\WindowsApplication.exe
+C:\Users\Public\Documents\Euresys\Open eVision 2.17\Sample Programs\MsVcs samples\QrcReading\bin\x64\Debug\WindowsApplication.pdb
+C:\Users\Public\Documents\Euresys\Open eVision 2.17\Sample Programs\MsVcs samples\QrcReading\bin\x64\Debug\Open_eVision_NetApi_2_17.dll
+C:\Users\Public\Documents\Euresys\Open eVision 2.17\Sample Programs\MsVcs samples\QrcReading\bin\x64\Debug\Open_eVision_NetApi_2_17.dll.config
+C:\Users\Public\Documents\Euresys\Open eVision 2.17\Sample Programs\MsVcs samples\QrcReading\obj\x64\Debug\QrcReadingVS2017.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Euresys\Open eVision 2.17\Sample Programs\MsVcs samples\QrcReading\obj\x64\Debug\QrcReading.MainForm.resources
+C:\Users\Public\Documents\Euresys\Open eVision 2.17\Sample Programs\MsVcs samples\QrcReading\obj\x64\Debug\QrcReadingVS2017.csproj.GenerateResource.cache
+C:\Users\Public\Documents\Euresys\Open eVision 2.17\Sample Programs\MsVcs samples\QrcReading\obj\x64\Debug\QrcReadingVS2017.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Euresys\Open eVision 2.17\Sample Programs\MsVcs samples\QrcReading\obj\x64\Debug\QrcReadingVS2017.csproj.CopyComplete
+C:\Users\Public\Documents\Euresys\Open eVision 2.17\Sample Programs\MsVcs samples\QrcReading\obj\x64\Debug\WindowsApplication.exe
+C:\Users\Public\Documents\Euresys\Open eVision 2.17\Sample Programs\MsVcs samples\QrcReading\obj\x64\Debug\WindowsApplication.pdb
